@@ -1,0 +1,1 @@
+Crafted with precision and finesse using HTML, CSS, and Tailwind CSS, my Razorpay clone mirrors the elegance and responsiveness of the original website. Every detail meticulously recreated to ensure a seamless user experience, making it not just a clone, but a stunning reflection of innovation and design prowess.
